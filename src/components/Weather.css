@@ -1,0 +1,36 @@
+.weather {
+    border: 3px solid grey;
+    border-radius: 20px;
+    margin: 30px;
+    width: max-content;
+    padding-bottom: 30px;
+}
+
+.title {
+    font-size: 54px;
+}
+
+.weather form {
+    margin: 20px;
+}
+.weather form input {
+    border: none;
+    border-bottom: 1px solid rgb(2, 57, 88);
+    margin-right: 20px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+
+.weather button {
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 8px;
+    background: rgba(66, 145, 219, 0.8);
+    font-size: 1.3rem;
+}
+
+.weather button:hover {
+    background: transparent;
+    color: black;
+  }
