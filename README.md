@@ -1,3 +1,25 @@
+# React Weather App
+
+A simple weather app built using React that allows users to enter a city and country name, fetch weather data from the OpenWeather API, and display the temperature, humidity, wind, and pressure for the specified location.
+
+## Features
+
+- Input fields to enter city and country name.
+- Fetches weather data using the OpenWeather API.
+- Displays temperature, humidity, wind speed, and pressure information.
+
+## Technologies Used
+
+- React
+- React Hooks for state management
+- Conditional rendering for displaying weather information
+
+![Screenshot 2023-10-29 113952](https://github.com/andjelaa29/weather-app/assets/93537835/9afca01c-5dd7-4835-bd03-65ed255da888)
+
+![Screenshot 2023-10-29 114017](https://github.com/andjelaa29/weather-app/assets/93537835/5dfe6571-48ea-488e-bab9-8872b65ec61b)
+
+
+  
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
